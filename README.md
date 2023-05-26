@@ -1,9 +1,6 @@
-# blockmaker-test-repositorio
-Repositorio para probar los primeros con git y github
+# blockmaker-test-repositorio2
 
 
-Este es mi primer cambio en un repositorio de git
-
-Este es mi segundo cambio en un repositorio de git
+Este es el segundo repositorio que creamos en blockmaker
 
 
